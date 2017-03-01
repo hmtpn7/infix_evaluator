@@ -1,18 +1,3 @@
-//#include <iostream>
-//#include "inFixEvaluator.h"
-//#include "Infix_To_Postfix.h"
-//
-//using namespace std;
-//
-//int main() {
-//	Infix_To_Postfix eval; 
-//	eval.convert("2+2^2*3");
-//	//cout << result;
-//
-//	system("pause");
-//	return 0;
-//}
-
 
 #include <cmath>
 #include <iostream>
